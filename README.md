@@ -11,5 +11,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-</a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+</a><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"> </a>
+</a><img src="https://sl.bing.net/dgEWhYbjbtA" alt="bash" width="40" height="40"> </a>
 
