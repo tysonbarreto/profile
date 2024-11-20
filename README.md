@@ -14,7 +14,7 @@ Languages and Tools:
 * Python
 * SQL
 * PowerBI, Tableau
-* Azure - Synapse, SQL, Devops, Container Registry/Instances/WebApp
+* Azure - Synapse, SQL, Devops, Container Registry/Instances/WebApp, AMLStudio
 * Apache - Airflow, Spark
 * DBT, DVC, MLflow
 
